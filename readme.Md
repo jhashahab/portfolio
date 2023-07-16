@@ -14,3 +14,10 @@ git push origin branchName
 
 4. Git status :
 git status 
+
+5. Create a new branch :
+git checkout -b branchName 
+
+6.Switch to other branch : 
+git checkout branchName 
+
